@@ -18,6 +18,7 @@ Per més informació sobre Git, consulta la [Git Documentation](https://git-scm.
 ## introduction
 
 ![Project Logo](images/logo.png)
+nova linea
 
 ## features
 
