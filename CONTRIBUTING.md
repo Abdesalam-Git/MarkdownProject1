@@ -1,21 +1,20 @@
-# Contributing Guidelines
+# Guia de Contribució
 
-Gràcies per voler contribuir al projecte! Seguiu aquestes directrius per assegurar que les vostres contribucions siguin benvingudes i integrades correctament.
+Gràcies per voler contribuir al projecte! A continuació, es detallen les pautes per assegurar que les vostres contribucions siguin benvingudes i integrades de manera correcta.
 
 ## Estil de Codi
 
-- Utilitzeu indentació amb 4 espais.
-- Seguiu les normes de codificació del llenguatge emprat.
-- Afegiu comentaris clars i concisos quan sigui necessari.
+- Segueix les **bones pràctiques** i les convencions del _llenguatge de programació_ utilitzat.
+- Afegeix comentaris clars quan sigui necessari per explicar el teu codi.
 
 ## Pull Requests
 
-- Assegureu-vos que el vostre codi està testejat abans d'enviar un Pull Request.
-- Descriviu els canvis en el títol i la descripció del Pull Request.
-- Relacioneu el vostre Pull Request amb una issue corresponent.
+- Abans de crear un Pull Request, assegura't que el teu codi ha estat provat adequadament.
+- Descriu els canvis realitzats en el títol i la descripció del Pull Request.
+- Relaciona el teu Pull Request amb l'issue corresponent per a un **millor seguiment**.
 
-## Report d'Issues
+## Report de Problemes (Issues)
 
-- Expliqueu clarament el problema amb passos per reproduir-lo.
-- Incloeu captures de pantalla o exemples de codi, si és necessari.
-- Etiqueteu correctament l'issue amb categories rellevants.
+- Explica el problema de **manera clara\*\***, incloent-hi els passos per reproduir-lo.
+- Si és possible, afegeix captures de pantalla o exemples de codi per facilitar la comprensió.
+- Assegura't d'etiquetar l'issue correctament per una **millor organització**.
