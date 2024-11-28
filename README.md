@@ -1,11 +1,11 @@
 # Markdown and git Homework.
 
-<<<<<<< HEAD
+
 Aquest projecte hem de fer varies activitats diferents [Git Documentation](https://git-scm.com/doc)
 =======
 En aquest projecte, creare diversos fitxers i repositoris Git per practicar els conceptes bàsics de git. 
 Per més informació sobre Git, consulta la [Git Documentation](https://git-scm.com/doc).
->>>>>>> 2b5ae89dd06324633e004fe3623b3198c20bfa85
+
 
 ## Table of Contents.
 
@@ -18,6 +18,7 @@ Per més informació sobre Git, consulta la [Git Documentation](https://git-scm.
 ## introduction
 
 ![Project Logo](images/logo.png)
+
 nova linea
 
 ## features
@@ -36,11 +37,11 @@ return a + b
 result = add_numbers(5, 7)
 print("The sum is:", result)
 ```
-<<<<<<< HEAD
+
 =======
 Example of inline code ```git log``` , using backticks.
 ## License
->>>>>>> 2b5ae89dd06324633e004fe3623b3198c20bfa85
+
 
 | Feature                 | Description                                                                          | Status    |
 | ----------------------- | ------------------------------------------------------------------------------------ | --------- |
